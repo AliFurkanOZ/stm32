@@ -1,0 +1,3 @@
+../App/Src/bms_state.c:9:6:BMS_State_Init	1
+../App/Src/bms_state.c:70:6:BMS_State_UpdateCellStats	6
+../App/Src/bms_state.c:91:6:BMS_State_UpdateTempStats	4

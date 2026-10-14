@@ -1,0 +1,5 @@
+../App/Src/modbus_handlers.c:20:13:buildException	16	static
+../App/Src/modbus_handlers.c:34:16:statusToException	16	static
+../App/Src/modbus_handlers.c:53:6:Modbus_HandleFC03	304	static
+../App/Src/modbus_handlers.c:102:6:Modbus_HandleFC06	40	static
+../App/Src/modbus_handlers.c:136:6:Modbus_HandleFC16	304	static

@@ -1,0 +1,7 @@
+../App/Src/register_map.c:27:18:getPermission	28
+../App/Src/register_map.c:81:18:getPointer	55
+../App/Src/register_map.c:167:6:RegMap_Init	1
+../App/Src/register_map.c:172:17:RegMap_Read	4
+../App/Src/register_map.c:188:17:RegMap_Write	10
+../App/Src/register_map.c:234:17:RegMap_ReadMultiple	5
+../App/Src/register_map.c:263:17:RegMap_WriteMultiple	6

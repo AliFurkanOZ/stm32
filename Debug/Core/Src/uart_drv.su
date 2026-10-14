@@ -1,0 +1,2 @@
+../Core/Src/uart_drv.c:6:6:UART_Init	4	static
+../Core/Src/uart_drv.c:11:6:UART_SendString	16	static

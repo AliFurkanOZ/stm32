@@ -1,0 +1,5 @@
+../App/Src/modbus_handlers.c:20:13:buildException	1
+../App/Src/modbus_handlers.c:34:16:statusToException	6
+../App/Src/modbus_handlers.c:53:6:Modbus_HandleFC03	5
+../App/Src/modbus_handlers.c:102:6:Modbus_HandleFC06	2
+../App/Src/modbus_handlers.c:136:6:Modbus_HandleFC16	7
